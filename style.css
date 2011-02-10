@@ -24,7 +24,7 @@ a:hover { text-decoration: underline; }
 #nav a {
   margin-left: 25px;
   padding: 0.2em 0;
-  font-family: Futura;
+  font-family: "Futura", Helvetica, Arial, sans-serif;
   color: #fff;
   background: #008d8d;
   text-decoration: none;
