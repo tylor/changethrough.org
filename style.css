@@ -90,6 +90,7 @@ body.event blockquote .sixtysix { position: absolute; left: 0; font-size: 4em; t
 body.event blockquote .ninetynine { position: absolute; right: 0; font-size: 4em; top: -9px; }
 body.event .source { text-align: right; margin-right: 165px; }
 body.event .audio { margin-left: 95px; }
+body.event audio { width: 470px; height: 24px; }
 .speaker .role { font-style: italic; }
 
 #footer { }
