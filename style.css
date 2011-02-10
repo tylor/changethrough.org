@@ -53,6 +53,7 @@ h1#logo { text-indent: -9999px; margin: 0; background: url(images/logo.png); wid
   border-right: 0;
   color: #414141;
   padding: 0 0 3.5em 0;
+  min-width: 800px;
 }
 
 #body h2 { border-bottom: 2px solid #908f8f; }
@@ -80,6 +81,7 @@ h1#logo { text-indent: -9999px; margin: 0; background: url(images/logo.png); wid
 .PDS_Poll .pds-vote { clear: both; }
 
 /* Event styles */
+body.event #body { min-width: 990px; }
 body.event #body .wrap { width: 990px; margin: auto; }
 body.event h1, body.event #body h2, body.event #body h3 { margin-left: 95px; }
 body.event #event-info { position: absolute; right: 0; top: 11px; font-style: italic; }
