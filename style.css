@@ -84,7 +84,7 @@ h1#logo { text-indent: -9999px; margin: 0; background: url(images/logo.png); wid
 body.event #body { min-width: 990px; }
 body.event #body .wrap { width: 990px; margin: auto; }
 body.event h1, body.event #body h2, body.event #body h3 { margin-left: 95px; }
-body.event #event-info { position: absolute; right: 0; top: 11px; font-style: italic; }
+body.event #event-info { position: absolute; right: 10px; top: 11px; font-style: italic; }
 body.event #body p { width: 800px; margin: 1em auto; }
 body.event .speaker { margin-top: 2em; }
 body.event blockquote { font-family: Times; font-style: italic; margin: 1em auto; padding: 0 70px; position:relative; width: 660px; font-size: 1.6em; }
