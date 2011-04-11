@@ -19,6 +19,7 @@ a:hover { text-decoration: underline; }
 
 #header { position: relative; padding: 1em 0 2.5em 0; /*background: url(images/glow.png) no-repeat right 40px;*/ }
 .info { text-align: right; position: absolute; top: 42px; right: 0px; color: #fff; font-size: 1.1em; letter-spacing: 1px; }
+  .info a { color: #fff; border-bottom: 1px dashed #fff; text-decoration: none; }
 #tagline { width: 590px; font-size: 1.8em; line-height: 1.3em; }
 #next-event { margin-top: 30px; }
 h1#logo { text-indent: -9999px; margin: 0; background: url(images/logo.png); width: 190px; height: 190px; }
@@ -71,7 +72,7 @@ h1#logo { text-indent: -9999px; margin: 0; background: url(images/logo.png); wid
 }
 #body .change { border-bottom: 2px dashed #414141;}
 .event-logo { float:left; }
-#event { margin-left: 210px; }
+.event-info { margin-left: 210px; }
 
 .PDS_Poll .pds-box { width: auto !important; }
 .PDS_Poll .pds-answer { border: 0 !important; }
